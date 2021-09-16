@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
+}
+/* .logo{
+    margin-left: 1rem;
+    margin-top: 2.5rem;
+} */
+/* .hero{
+    display: flex;
+    width: 850px;
+    margin:2rem auto;
+} */
+/* .hero sec-1{
+    width: 30%;
+}
+.hero sec-2{
+    width: 70%;
+}
+.hero
+h3{
+    color: red;
+}
+.hero .mt{
+    margin-left: 3rem;
+    margin-top: 1.5rem;
+}
+.hero .ml{
+    margin-left: 3rem;
+    
+}
+
+.navbar li{
+    float: left;
+    list-style-type: none;
+    padding-right: 10px;
+   border: .5px solid rgb(194, 186, 186);
+   padding: 15px;
+   background-color: gainsboro;
+  
+    
+}
+.navbar li a{
+    color: black;
+    text-decoration: none;
+   font-weight: 500;
+}
+.navbar li:hover{
+    background-color: gainsboro;
+}
+.navbar{
+    height: 4rem;
+    
+    padding-top: 1.4rem;
+    
+} */
+
+/* .hero{
+    height: 90vh;
+    background: chocolate;
+    text-align: center;
+} */
+/* absolute relative fixed sticky */
+/* .container{
+    border: 1px solid black;  
+    background-color: antiquewhite;
+    height: 100rem;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+}
+#box3{
+    position: sticky;
+    top: 10px;
+    
+} */
+
+.hero{
+    background: linear-gradient(to right bottom,rgb(243, 136, 136,.5),rgb(34, 11, 11)),url(./back.jpeg);
+    height: 20rem;
+    text-align: center;
+    color: white;
+    padding-top: 6rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
